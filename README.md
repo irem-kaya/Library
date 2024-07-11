@@ -1,5 +1,5 @@
-# Library
-Kütüphane Yönetim Sistemi
+
+# Kütüphane Yönetim Sistemi
 Bu proje, bir kütüphane yönetim sistemini simüle eden Python sınıflarını içermektedir. Bu sistem, öğrencileri ve kitapları yönetmeyi, kitap ödünç almayı ve iade etmeyi sağlar.
 
 İçindekiler
@@ -21,11 +21,11 @@ Alınan kitapların listesini görüntüleme
 Öğrencilerin aktiflik durumlarını değiştirebilme
 Kurulum
 Bu projeyi yerel makinenize klonlayın:
-bash
+
 Kodu kopyala
 git clone https://github.com/kullanıcı_adı/kütüphane-yönetim-sistemi.git
 Proje dizinine gidin:
-bash
+
 Kodu kopyala
 cd kütüphane-yönetim-sistemi
 Kullanım
@@ -33,7 +33,7 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
 Python dosyasını çalıştırın:
 
-bash
+
 Kodu kopyala
 python library_system.py
 Örnek kodu kullanarak, öğrenci ve kitap ekleyebilir, kitap ödünç alabilir ve mevcut bilgileri görüntüleyebilirsiniz.
